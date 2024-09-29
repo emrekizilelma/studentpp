@@ -4,5 +4,6 @@
 
 int main() {
     std::cout << App::description << std::endl;
+    std::cout << App::foo();
     return 0;
 }

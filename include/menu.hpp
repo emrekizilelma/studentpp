@@ -5,7 +5,11 @@
 
 namespace App {
     std::string description = "A very simple Student registration automation program.\n";
-    std::string version = " v-0.0.0";
+    std::string version = " v-0.0.0\n";
+
+    void foo() {
+        std::cout << "a";
+    }
 }
 
 #endif
