@@ -4,7 +4,7 @@
 #include <iostream>
 
 namespace App {
-    std::string description = "A very simple Student registration automation program.";
+    std::string description = "A very simple Student registration automation program.\n";
     std::string version = " v-0.0.0";
 }
 
